@@ -65,6 +65,7 @@ The overall workflow consisted of:
 
 <img width="638" height="336" alt="Land Cover Reclassification Values" src="https://github.com/user-attachments/assets/d406c060-ea4b-476c-93bb-5b6736ff22a2" />
 
+<img width="662" height="117" alt="PAD-US GAP Status Code Reclassification Values" src="https://github.com/user-attachments/assets/2ab5678a-9cf6-45ef-be3e-a76dcbbc63bd" />
 
 Land cover classes were reclassified according to their relative resistance to wildlife movement. Natural vegetation received lower movement costs while developed areas and major roadways received higher resistance values.
 
